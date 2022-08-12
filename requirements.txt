@@ -1,0 +1,8 @@
+sentencepiece
+tokenizers
+dataclasses
+protobuf
+six
+tables
+tensorboardX
+tqdm
