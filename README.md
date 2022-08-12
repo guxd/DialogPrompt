@@ -53,7 +53,7 @@ If you use any source code included in this toolkit in your work, please cite th
 ```
 @inproceedings{gu2021dialogprompt,
       title={Response Generation with Context-Aware Prompt Learning},
-      author={Gu, Xiaodong and Yo, Kang Min and Ha, Jung-Woo and Lee, Sang-Woo},
+      author={Gu, Xiaodong and Yoo, Kang Min and Lee, Sang-Woo},
       journal={Arxiv},
       year={2021}
 }
