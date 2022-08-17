@@ -18,8 +18,8 @@ Install packages of the _requirements.txt_ file.
 ```
 BSD 3-clause
 
-DialogBERT
-Copyright 2021-present NAVER Corp.
+DialogPrompt
+Copyright 2022-present NAVER Corp.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:

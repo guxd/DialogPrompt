@@ -1,5 +1,5 @@
-# DialogBERT
-# Copyright 2021-present NAVER Corp.
+# DialogPrompt
+# Copyright 2022-present NAVER Corp.
 # BSD 3-clause
 
 import argparse

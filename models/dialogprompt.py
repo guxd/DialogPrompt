@@ -1,5 +1,5 @@
-# DialogBERT
-# Copyright 2021-present NAVER Corp.
+# DialogPrompt
+# Copyright 2022-present NAVER Corp.
 # BSD 3-clause
 
 import torch
@@ -287,7 +287,7 @@ class DialogPrompt(nn.Module):
     def generate(self, input_batch, max_len=30, num_samples=1, mode='sample'): 
         """
         Using huggineface's default generator. 
-        https://stackoverflow.com/questions/60459292/using-past-and-attention-mask-at-the-same-time-for-gpt2
+        
         """
         self.eval()
         device = next(self.parameters()).device

@@ -1,5 +1,5 @@
-# DialogBERT
-# Copyright 2021-present NAVER Corp.
+# DialogPrompt
+# Copyright 2022-present NAVER Corp.
 # BSD 3-clause
 
 import torch
@@ -9,8 +9,6 @@ import torch.nn as nn
 class MaskableLSTM(nn.Module):
     '''
     pytorch rewrite lstm use mask
-    https://programmersought.com/article/54002157510/
-    https://blog.csdn.net/qq_36533552/article/details/95402051
     '''
     def __init__(self, input_size, hidden_size, num_layers, dropout, bidirectional=True, batch_first=True):
         super(MaskableLSTM, self).__init__()   

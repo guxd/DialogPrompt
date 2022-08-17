@@ -1,4 +1,4 @@
-# DialogBERT
+# DialogPrompt
 # Copyright 2021-present NAVER Corp.
 # BSD 3-clause
 
